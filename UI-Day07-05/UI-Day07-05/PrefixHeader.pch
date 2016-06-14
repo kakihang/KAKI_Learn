@@ -1,0 +1,41 @@
+//
+//  PrefixHeader.pch
+//  UI-Day07-05
+//
+//  Created by kaki on 16/6/7.
+//  Copyright © 2016年 刘端杭. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIButton+KKCreateButton.h"
+#import "UIView+KKExtension.h"
+#import "UITextField+KKExtension.h"
+#import "UIImage+KKExtension.h"
+
+
+#define ViewCenterX (self.view.KK_width / 2)
+#define ViewCenterY (self.view.KK_height / 2)
+
+#define TextFieldNormalHeight 30
+#define TextFieldNormalWidth 150
+#define TextFieldColor [[UIColor alloc] initWithWhite:0.8 alpha:0.5]
+
+#define ButtonNormalHeight 30
+#define ButtonNormalWidth 100
+
+#define LabelNormalHeight 30
+#define LabelNormalWidth 50
+
+#define LabelInterval 20
+
+#define KK_DEBUG 0
+
+#define KK_ACCOUNT @"账号"
+#define KK_PASSWORD @"密码"
+#define KK_PHONE @"电话"
+#define KK_EMAIL @"邮箱"
+
+
+#endif /* PrefixHeader_pch */

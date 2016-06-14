@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BDC156ED38B6A75AFC049E4D65BC1A92DEFD5ACA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3AD81949D415F1E61545F331089138100896A22A" : 0,
+    "BDC156ED38B6A75AFC049E4D65BC1A92DEFD5ACA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0FE89245-8F6C-49AB-9982-2A53FF98F91F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3AD81949D415F1E61545F331089138100896A22A" : "",
+    "BDC156ED38B6A75AFC049E4D65BC1A92DEFD5ACA" : "KAKI_Learn\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UI-Day07-05",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UI-Day07-05\/UI-Day07-05.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kakihang\/firstcode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3AD81949D415F1E61545F331089138100896A22A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kakihang\/KAKI_Learn.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BDC156ED38B6A75AFC049E4D65BC1A92DEFD5ACA"
+    }
+  ]
+}
